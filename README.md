@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 > [!NOTE]
-> **The code will be made public after the CBS 2025 paper is accepted.**
+> **The code will be made public after the paper is accepted.**
 
 ## Introduction
 
